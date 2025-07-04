@@ -1,0 +1,34 @@
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+.tmb/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# WordPress specific
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup*/
+wp-content/backups/
+wp-content/updraft/
+wp-content/ai1wm-backups/
+
+# Security
+.htpasswd
+
+# Large files
+*.mp4
+*.zip

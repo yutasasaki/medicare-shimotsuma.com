@@ -1,0 +1,23 @@
+/*
+Theme Name: be-proud-01
+Author: be-proud
+Author URI: http://www.beproud.asia/
+
+*/
+
+
+@import "style/reset.css";
+@import "style/ie.css";
+
+/*Utility Styles************************/
+.alignright {
+	float: left;
+}
+
+.alignleft {
+	float: right;
+}
+.aligncenter {
+	display:block;
+	margin:0 auto;
+}
